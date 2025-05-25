@@ -1,0 +1,24 @@
+#-------FOR CPU-------#
+
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+scikit-learn
+torch
+torchaudio
+torchvision
+
+
+
+#-------FOR GPU-------#
+
+streamlit
+faiss-gpu
+sentence-transformers
+transformers
+scikit-learn
+torch==2.3.0+cu121
+torchaudio==2.3.0+cu121
+torchvision==0.18.0+cu121
+--extra-index-url https://download.pytorch.org/whl/cu121

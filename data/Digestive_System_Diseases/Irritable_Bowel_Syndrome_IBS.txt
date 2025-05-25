@@ -1,0 +1,76 @@
+Irritable Bowel Syndrome (IBS) is a chronic gastrointestinal (GI) disorder that impacts the function of the large intestine (colon), without causing permanent damage. It is highly prevalent worldwide and affects individuals across all age groups and genders. IBS is a functional bowel disorder, meaning it relates to how the gut works rather than structural abnormalities. 
+
+The primary symptoms of IBS include:
+- Abdominal pain or cramping
+- Bloating and gas
+- Altered bowel habits (diarrhea, constipation, or both)
+- Mucus in the stool
+- Sensation of incomplete bowel movement
+- Urgency or straining during defecation
+
+There are three common types of IBS:
+- **IBS-C** (constipation-predominant)
+- **IBS-D** (diarrhea-predominant)
+- **IBS-M** (mixed type: alternating between constipation and diarrhea)
+
+The **exact causes of IBS** are not fully understood, but several factors contribute, including:
+- Gut-brain axis dysfunction
+- Stress and anxiety
+- Abnormal gastrointestinal motility
+- Visceral hypersensitivity (increased pain sensation in the gut)
+- Small intestinal bacterial overgrowth (SIBO)
+- Infections like gastroenteritis (post-infectious IBS)
+- Food intolerances (e.g., lactose, gluten, FODMAPs)
+
+**Diagnosis of IBS** is clinical and typically based on the Rome IV criteria, which require recurrent abdominal pain at least one day per week for the last three months, associated with two or more of the following:
+1. Pain related to defecation
+2. Change in stool frequency
+3. Change in stool form (appearance)
+
+To rule out other conditions (e.g., inflammatory bowel disease, celiac disease, colorectal cancer), doctors may order:
+- Complete blood count (CBC)
+- C-reactive protein (CRP)
+- Stool tests
+- Colonoscopy (in certain cases)
+- Lactose intolerance and celiac disease screening
+
+**Treatment for IBS** focuses on symptom relief and improving quality of life:
+- **Dietary management**: Low-FODMAP diet, increased fiber (for constipation), or avoiding trigger foods (caffeine, alcohol, fatty foods)
+- **Pharmacologic therapy**:
+  - Antispasmodics (e.g., hyoscine, dicyclomine)
+  - Laxatives or stool softeners (for IBS-C)
+  - Antidiarrheals like loperamide (for IBS-D)
+  - Peppermint oil (natural smooth muscle relaxant)
+  - SSRIs or tricyclic antidepressants (for pain modulation)
+- **Probiotics**: To restore gut flora balance
+- **Cognitive Behavioral Therapy (CBT)**: For patients with stress-induced symptoms
+- **Regular physical activity**: Helps regulate bowel function and reduce stress
+
+**Lifestyle modifications**:
+- Establish regular eating schedules
+- Practice stress reduction techniques (mindfulness, yoga, deep breathing)
+- Avoid large meals, especially late at night
+- Stay hydrated
+
+**Prognosis**:
+IBS is a chronic condition with a fluctuating course — symptoms may wax and wane over time. It does not increase the risk of colorectal cancer or cause permanent damage to the digestive tract. With individualized care and adherence to treatment, most patients experience significant symptom improvement.
+
+**Related terms and keywords**:
+- Irritable colon
+- Functional bowel disorder
+- Abdominal cramping
+- Gas and bloating
+- Diarrhea/constipation cycle
+- Food sensitivity
+- Gut-brain interaction
+- Digestive health
+- Non-ulcer dyspepsia
+
+**When to see a doctor immediately**:
+- Blood in stool
+- Weight loss
+- Anemia
+- Fever
+- Family history of GI cancers
+
+Education, reassurance, and continuous care from a multidisciplinary team are essential in the long-term management of Irritable Bowel Syndrome. Patients should be encouraged to track symptoms and triggers to help tailor their management plan.

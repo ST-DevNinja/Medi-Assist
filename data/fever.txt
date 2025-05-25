@@ -1,0 +1,51 @@
+# Fever
+
+Fever, also known as pyrexia or elevated body temperature, is a common physiological response to infection or inflammation. It is often accompanied by symptoms such as chills, sweating, headache, or body aches.
+
+## Causes and Risk Factors
+Fever can result from various causes, including:
+
+- Viral or bacterial infections  
+- Inflammatory conditions  
+- Heat exhaustion or heat stroke  
+- Medication side effects  
+- Autoimmune diseases  
+- Other underlying medical conditions  
+
+## Symptoms
+Common symptoms associated with fever include:
+
+- Elevated body temperature (usually above 38°C or 100.4°F)  
+- Chills and shivering  
+- Sweating  
+- Headache  
+- Muscle aches and body pain  
+- Fatigue  
+- Loss of appetite  
+
+## Diagnosis
+Diagnosis typically involves:
+
+- Measuring body temperature using a thermometer  
+- Clinical evaluation of associated symptoms and patient history  
+- Laboratory tests if an underlying infection or cause is suspected  
+- Imaging or further investigations in persistent or unexplained fever  
+
+## Treatment Options
+Treatment depends on the fever’s severity and underlying cause:
+
+- Mild fever may not require treatment and can resolve on its own  
+- Antipyretics such as acetaminophen (paracetamol) or ibuprofen are commonly used to reduce fever and relieve discomfort  
+- Adequate hydration and rest are important  
+- Persistent or high fever requires medical evaluation to identify and treat the underlying cause  
+
+## Prognosis
+Most fevers are self-limiting and resolve with appropriate care. However, persistent or very high fevers may indicate serious illness and require prompt medical attention.
+
+## Preventative Strategies and Patient Education
+- Maintaining good hygiene to prevent infections  
+- Seeking timely medical care for prolonged fever  
+- Educating patients about proper use of antipyretics and monitoring symptoms  
+- Ensuring adequate hydration and rest during febrile episodes  
+
+Fever is a common symptom that signals the body’s response to illness, and appropriate management can help ensure recovery and prevent complications.

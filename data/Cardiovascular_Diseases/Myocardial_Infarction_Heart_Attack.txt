@@ -1,0 +1,70 @@
+Myocardial Infarction (MI), commonly known as a heart attack, is a life-threatening cardiovascular emergency that occurs when blood flow to a part of the heart muscle (myocardium) is abruptly blocked. This blockage—most often caused by a buildup of plaque (atherosclerosis) in the coronary arteries—leads to oxygen deprivation and irreversible damage to the heart tissue if not treated promptly.
+
+**Common symptoms** of a heart attack include:
+- Chest pain or pressure (often described as squeezing, tightness, heaviness, or burning)
+- Radiating pain to the left arm, jaw, back, or neck
+- Shortness of breath
+- Cold sweats
+- Fatigue
+- Dizziness or lightheadedness
+- Nausea or vomiting
+- Feeling of impending doom (in some cases)
+
+**Silent myocardial infarctions** (SMIs) can occur without noticeable symptoms and are especially common in individuals with diabetes, the elderly, or those with a high pain threshold.
+
+**Underlying causes and risk factors**:
+- Coronary artery disease (CAD)
+- Smoking
+- High blood pressure (hypertension)
+- High cholesterol (hyperlipidemia)
+- Diabetes mellitus
+- Sedentary lifestyle
+- Obesity
+- Chronic stress
+- Family history of heart disease
+- Excessive alcohol consumption
+
+**Diagnosis** typically involves:
+- Electrocardiogram (ECG/EKG) to detect heart rhythm abnormalities
+- Cardiac biomarkers such as troponin levels in blood tests
+- Echocardiogram or cardiac ultrasound
+- Coronary angiography (to visualize blocked arteries)
+- Chest X-ray or CT angiography in complex cases
+
+**Immediate treatment** aims to restore blood flow quickly:
+- **Pharmacological interventions**:
+  - Antiplatelet agents (e.g., aspirin, clopidogrel)
+  - Thrombolytics (clot-busting drugs)
+  - Beta-blockers, ACE inhibitors, or nitrates
+  - Statins to control cholesterol
+- **Non-pharmacological and interventional procedures**:
+  - Percutaneous Coronary Intervention (PCI or angioplasty with stenting)
+  - Coronary Artery Bypass Grafting (CABG) surgery
+  - Oxygen therapy and pain relief (e.g., morphine)
+  - Lifestyle changes: quitting smoking, dietary modifications, cardiac rehabilitation, stress management
+
+**Complications** of untreated or severe MI can include:
+- Heart failure
+- Arrhythmias (irregular heart rhythms)
+- Cardiogenic shock
+- Ventricular rupture
+- Pericarditis
+- Sudden cardiac arrest
+
+**Prognosis** depends on the extent of heart damage, speed of treatment, and post-MI management. Survival rates and long-term outcomes significantly improve with early intervention, medication adherence, and lifestyle change.
+
+**Preventative strategies** include regular health check-ups, managing blood pressure and cholesterol, maintaining a healthy diet, exercising regularly, reducing stress, and avoiding tobacco and alcohol.
+
+**Synonyms and related terms**:
+- Heart attack
+- Cardiac infarction
+- Coronary thrombosis
+- Coronary occlusion
+- Acute coronary syndrome (ACS)
+- Blocked artery
+- Chest pain emergency
+- Myocardial ischemia
+- Silent heart attack
+- STEMI / NSTEMI (ST-Elevation MI / Non-ST-Elevation MI)
+
+Public awareness, rapid response (e.g., calling emergency services), and continuous cardiac care are vital in minimizing mortality and complications associated with myocardial infarction.

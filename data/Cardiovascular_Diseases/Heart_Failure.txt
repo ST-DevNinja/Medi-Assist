@@ -1,0 +1,33 @@
+Heart Failure, also known as congestive heart failure (CHF), is a chronic and progressive condition where the heart is unable to pump blood effectively to meet the body’s needs. It can affect either the left or right side of the heart—or both—leading to insufficient circulation of oxygen and nutrients to vital organs.
+
+Common symptoms of heart failure include shortness of breath (dyspnea), fatigue, persistent coughing or wheezing, swelling in the legs, ankles, or abdomen (edema), rapid or irregular heartbeat, and difficulty exercising. Some individuals may also experience chest pain, confusion, or nocturia (frequent urination at night).
+
+Heart failure can be caused by:
+- Coronary artery disease (CAD)
+- Myocardial infarction (heart attack)
+- Hypertension (high blood pressure)
+- Cardiomyopathy
+- Heart valve diseases
+- Arrhythmias (irregular heart rhythms)
+- Congenital heart defects
+- Diabetes or metabolic syndrome
+
+Diagnosis involves a comprehensive clinical evaluation and may include:
+- **Electrocardiogram (ECG/EKG)**: to detect arrhythmias or past heart attacks.
+- **Echocardiogram**: to assess ejection fraction and structural damage.
+- **Blood tests**: including BNP or NT-proBNP markers.
+- **Chest X-ray**: to visualize fluid buildup or heart enlargement.
+- **Stress testing and cardiac MRI**: to further evaluate cardiac function and perfusion.
+
+Treatment options for heart failure depend on its classification (systolic vs. diastolic, acute vs. chronic) and include:
+
+- **Medications**: ACE inhibitors, beta-blockers, diuretics, ARBs, aldosterone antagonists, and digitalis.
+- **Device therapy**: pacemakers, cardiac resynchronization therapy (CRT), or implantable cardioverter defibrillators (ICD).
+- **Surgery**: coronary bypass, valve repair/replacement, or even heart transplantation.
+- **Lifestyle modifications**: sodium restriction, fluid management, daily weight monitoring, smoking cessation, alcohol moderation, and cardiac rehabilitation.
+
+Preventive strategies such as controlling blood pressure, managing diabetes, adhering to prescribed medication, and attending regular follow-ups are key to avoiding hospitalization and progression of the disease.
+
+Other related terms and synonyms include: weak heart, fluid retention, cardiomyopathy, congestive heart disease, reduced ejection fraction, SOB (shortness of breath), pitting edema, breathlessness, heart pumping problems, left-sided heart failure, right-sided heart failure.
+
+With early detection, medical support, and patient education, individuals living with heart failure can manage the condition and maintain quality of life.

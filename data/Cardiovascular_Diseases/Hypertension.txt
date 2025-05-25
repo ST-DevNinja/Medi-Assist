@@ -1,0 +1,57 @@
+Hypertension, commonly known as high blood pressure, is a chronic cardiovascular condition in which the force of blood against the artery walls remains elevated over time. It is often referred to as a "silent killer" because it typically develops without noticeable symptoms, yet it significantly increases the risk of serious complications like heart attack, stroke, kidney failure, and vision loss.
+
+Blood pressure is measured using two values: systolic (pressure during heartbeats) and diastolic (pressure between heartbeats). A consistent reading of 130/80 mmHg or higher is considered hypertensive under most clinical guidelines.
+
+There are two primary types of hypertension:
+1. **Primary (essential) hypertension** – develops gradually over years with no identifiable cause.
+2. **Secondary hypertension** – caused by underlying conditions such as kidney disease, hormonal disorders (e.g., hyperthyroidism, Cushing’s syndrome), sleep apnea, or certain medications (like birth control pills or NSAIDs).
+
+Common symptoms in severe or long-standing cases may include:
+- Headaches (especially in the morning)
+- Dizziness or lightheadedness
+- Blurred vision
+- Chest pain
+- Shortness of breath
+- Nosebleeds (in rare, extreme cases)
+However, many individuals may remain asymptomatic for years.
+
+Risk factors include:
+- Obesity
+- High sodium intake
+- Sedentary lifestyle
+- Excessive alcohol consumption
+- Smoking
+- Chronic stress
+- Family history of hypertension
+- Age (more common in individuals over 40)
+- Ethnic background (higher prevalence in African descent)
+
+Diagnosis typically includes:
+- **Blood pressure monitoring** over multiple visits.
+- **Ambulatory blood pressure monitoring (ABPM)** for 24-hour tracking.
+- **Basic metabolic panel and kidney function tests**
+- **Lipid profile and ECG** to check for cardiovascular impact.
+- **Urinalysis** and imaging if secondary causes are suspected.
+
+Treatment options include:
+
+**Pharmacological treatments:**
+- ACE inhibitors (e.g., enalapril, lisinopril)
+- Angiotensin II receptor blockers (ARBs)
+- Beta-blockers (e.g., atenolol)
+- Calcium channel blockers (e.g., amlodipine)
+- Diuretics (e.g., hydrochlorothiazide)
+- Alpha-blockers and other supportive drugs
+
+**Non-pharmacological management:**
+- Low-sodium DASH diet
+- Regular aerobic exercise
+- Weight loss
+- Stress reduction (e.g., mindfulness, yoga)
+- Limiting alcohol intake and quitting smoking
+
+Prognosis improves significantly with early detection, consistent medication adherence, lifestyle changes, and regular monitoring. Uncontrolled hypertension can lead to serious complications such as hypertensive heart disease, stroke, kidney damage, or aortic aneurysm.
+
+**Synonyms and related terms**: high BP, elevated blood pressure, arterial hypertension, silent killer, high systolic pressure, high diastolic pressure, blood pressure imbalance, vascular resistance disorder.
+
+Hypertension is preventable and manageable. Educating patients about the importance of routine check-ups, dietary habits, and physical activity plays a crucial role in reducing its burden on global health.

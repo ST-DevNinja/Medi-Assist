@@ -1,0 +1,54 @@
+Measles, also known as rubeola, is a highly contagious viral disease caused by the **Measles virus**, a member of the paramyxovirus family. It primarily affects children but can occur at any age and is a significant cause of morbidity and mortality worldwide, especially in areas with low vaccination coverage.
+
+**Transmission** occurs through respiratory droplets when an infected person coughs or sneezes. The virus can remain infectious in the air or on surfaces for up to two hours, making it highly contagious.
+
+**Symptoms of measles** typically appear 7 to 14 days after exposure and include:
+- High fever
+- Cough
+- Runny nose (coryza)
+- Red, watery eyes (conjunctivitis)
+- Koplik spots (small white lesions) inside the mouth, which are pathognomonic
+- A widespread maculopapular rash that usually starts on the face and spreads downward to the trunk and limbs
+
+Complications from measles can be severe and include:
+- Otitis media (ear infections)
+- Pneumonia (a leading cause of death in measles)
+- Diarrhea and dehydration
+- Encephalitis (brain inflammation), which can lead to permanent neurological damage or death
+- Subacute sclerosing panencephalitis (SSPE), a rare but fatal late complication
+
+**Diagnosis of measles** involves:
+- Clinical assessment based on characteristic symptoms and rash
+- Laboratory confirmation through detection of measles-specific IgM antibodies in serum or PCR testing of throat swabs, urine, or blood samples
+- Consideration of vaccination history and epidemiological context
+
+**Treatment of measles** is primarily supportive, as no specific antiviral therapy is available:
+- Adequate hydration and nutrition
+- Fever management with antipyretics such as acetaminophen or ibuprofen
+- Vitamin A supplementation, which has been shown to reduce severity and mortality
+- Management of complications like bacterial infections with antibiotics as needed
+
+**Prevention of measles** is highly effective through vaccination:
+- The Measles-Mumps-Rubella (MMR) vaccine is recommended for children, with two doses providing about 97% protection against measles
+- Maintaining high vaccination coverage is essential to achieve herd immunity and prevent outbreaks
+- Isolation of infected individuals to limit spread during outbreaks
+
+**Prognosis**:
+- Most healthy individuals recover fully with no lasting effects
+- Complications can lead to prolonged illness, hospitalization, or death, particularly in immunocompromised individuals, infants under 1 year, and malnourished populations
+
+**Keywords and related terms**:
+- Rubeola virus
+- Koplik spots
+- Maculopapular rash
+- MMR vaccine
+- Vitamin A deficiency
+- Pneumonia
+- Encephalitis
+- Herd immunity
+- Viral exanthem
+- Contagious diseases
+- Public health vaccination
+
+Public health efforts focus on vaccination campaigns, education, and surveillance to reduce measles incidence globally. Early recognition and timely supportive care are key to reducing complications and fatalities.
+

@@ -1,0 +1,62 @@
+Hepatitis A, B, and C are viral infections that cause inflammation of the liver, collectively referred to as viral hepatitis. These infections affect millions of people worldwide and differ in their modes of transmission, severity, and long-term impact on liver function. The liver plays a critical role in detoxifying the body, metabolizing nutrients, and supporting immune function — thus, viral hepatitis can lead to severe health complications if left untreated.
+
+**Hepatitis A** is usually an acute, short-term illness caused by the Hepatitis A virus (HAV). It spreads primarily through the fecal-oral route, often due to contaminated food or water or close personal contact. Hepatitis A does not cause chronic liver disease but can lead to severe acute symptoms.
+
+**Hepatitis B** is caused by the Hepatitis B virus (HBV) and can be either acute or chronic. It spreads through contact with infected blood, semen, or other body fluids. Transmission can occur via unprotected sex, shared needles, blood transfusions, and from mother to baby at birth. Chronic HBV infection can lead to liver cirrhosis, liver failure, or hepatocellular carcinoma (liver cancer).
+
+**Hepatitis C** is caused by the Hepatitis C virus (HCV) and is primarily transmitted through blood-to-blood contact, such as sharing contaminated needles or receiving unsafe blood transfusions. Most acute infections are asymptomatic, but a large percentage develop chronic infection that may progress silently over decades to cirrhosis or liver cancer.
+
+**Common symptoms of all three types**:
+- Fatigue and weakness
+- Nausea and vomiting
+- Abdominal pain (especially in the upper right quadrant)
+- Jaundice (yellowing of the skin and eyes)
+- Dark-colored urine
+- Pale or clay-colored stools
+- Fever (particularly in Hepatitis A)
+- Loss of appetite
+- Joint pain (more common in Hepatitis B)
+- Itchy skin
+- Enlarged liver or tenderness
+
+**Diagnosis** involves:
+- Liver function tests (LFTs) to detect elevated liver enzymes (ALT, AST)
+- Viral serology (anti-HAV IgM, HBsAg, anti-HCV)
+- PCR testing for viral RNA/DNA levels
+- Abdominal ultrasound or elastography
+- Liver biopsy (for staging chronic disease)
+- Patient history regarding exposure risks, vaccination, drug use, or travel
+
+**Treatment approaches differ**:
+- **Hepatitis A**: Usually self-limiting; supportive care and hydration are key. Vaccination is available for prevention.
+- **Hepatitis B**: Chronic cases may require antiviral medications like entecavir, tenofovir, or interferon therapy. Regular monitoring is essential.
+- **Hepatitis C**: Direct-acting antivirals (DAAs) such as sofosbuvir, ledipasvir, glecaprevir/pibrentasvir can cure over 95% of chronic cases with minimal side effects.
+
+**Prevention strategies**:
+- Vaccination (for Hepatitis A and B)
+- Practicing safe sex
+- Avoiding shared needles or personal items like razors and toothbrushes
+- Screening blood products and organ donations
+- Proper sanitation and hygiene practices
+- Safe food and water consumption during travel
+- Antiviral treatment of pregnant women with high HBV viral loads
+
+**When to seek immediate care**:
+- Sudden onset of jaundice
+- Mental confusion (possible hepatic encephalopathy)
+- Severe abdominal swelling or ascites
+- Internal bleeding signs (e.g., black tarry stools, vomiting blood)
+- Signs of chronic liver disease (spider veins, gynecomastia, swelling in legs)
+
+**Related terms and synonyms**:
+- Liver inflammation
+- Yellow eyes
+- Viral liver infection
+- Chronic hepatitis
+- Acute hepatitis
+- Contagious liver disease
+- Infectious hepatitis
+- Cirrhosis risk
+- Blood-borne virus
+
+Early diagnosis, education, and consistent follow-up can greatly reduce the complications associated with hepatitis. Public awareness and global vaccination efforts remain key to reducing the disease burden.

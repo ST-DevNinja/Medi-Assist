@@ -1,0 +1,66 @@
+Dengue is a mosquito-borne viral infection that affects millions of individuals each year, particularly in tropical and subtropical regions around the world. It is caused by the **Dengue virus (DENV)**, which exists in four serotypes (DENV-1, DENV-2, DENV-3, and DENV-4). The virus is primarily transmitted to humans through the bite of infected female *Aedes aegypti* and *Aedes albopictus* mosquitoes.
+
+Dengue affects individuals of all ages and backgrounds, with risk factors including travel to endemic areas, poor sanitation, stagnant water near living areas (mosquito breeding grounds), and lack of immunity to certain serotypes.
+
+**Symptoms of dengue fever** typically begin 4–10 days after infection and can range from mild to severe. These include:
+- Sudden high fever (up to 104°F or 40°C)
+- Severe headaches and retro-orbital (behind the eyes) pain
+- Muscle and joint pain (often referred to as “breakbone fever”)
+- Skin rash (appearing 2–5 days after fever starts)
+- Nausea and vomiting
+- Fatigue and weakness
+- Mild bleeding symptoms (e.g., nosebleeds, bleeding gums, easy bruising)
+
+In some cases, the disease can progress to **severe dengue** (also called **dengue hemorrhagic fever** or **dengue shock syndrome**), which is potentially life-threatening. Symptoms of severe dengue include:
+- Severe abdominal pain
+- Persistent vomiting
+- Rapid breathing
+- Bleeding under the skin
+- Drop in blood pressure (shock)
+- Organ damage
+
+**Diagnosis of dengue** is made through:
+- Clinical evaluation and symptom history
+- Blood tests to detect **NS1 antigen**, **IgM/IgG antibodies**, or **PCR tests** for viral RNA
+- Monitoring of **platelet count** and **hematocrit levels** to assess severity
+
+**Treatment for dengue** is primarily supportive, as there is no specific antiviral medication. Treatment includes:
+1. **Pharmacological management**:
+   - **Paracetamol (acetaminophen)** for fever and pain relief
+   - **Avoid NSAIDs (e.g., ibuprofen, aspirin)** as they may increase the risk of bleeding
+2. **Non-pharmacological support**:
+   - Adequate rest and hydration
+   - Monitoring of vital signs and fluid balance
+   - Hospitalization for severe cases requiring intravenous fluids and close observation
+
+In severe cases, **emergency care** may involve:
+- Intravenous fluid resuscitation
+- Blood transfusion (if there is severe bleeding or plasma leakage)
+- Oxygen support and intensive monitoring
+
+**Prevention of dengue** focuses on vector control and public health measures:
+- Eliminating mosquito breeding sites (e.g., stagnant water in containers, tires, pots)
+- Using insect repellent and wearing protective clothing
+- Installing window and door screens or using bed nets
+- Community-based mosquito control programs
+- **Vaccination**: Dengvaxia (CYD-TDV) is an approved vaccine in some countries but is recommended only for individuals with prior dengue infection due to safety considerations
+
+**Prognosis**:
+Most patients with dengue recover fully within 1–2 weeks, especially with early detection and proper care. However, severe dengue can lead to significant complications and requires prompt medical attention.
+
+**Keywords and related terms**:
+- Dengue fever
+- Mosquito-borne viral infection
+- Aedes aegypti
+- NS1 antigen test
+- Platelet count
+- Breakbone fever
+- Dengue hemorrhagic fever (DHF)
+- Dengue shock syndrome (DSS)
+- Flavivirus infection
+- Endemic viral disease
+- Tropical medicine
+- Viral exanthem (rash)
+- Antipyretics and fluid therapy
+
+Patient education plays a vital role in controlling dengue outbreaks and managing individual cases. Raising awareness about early symptoms, promoting environmental sanitation, and encouraging prompt medical consultation are key in preventing complications and reducing disease burden.

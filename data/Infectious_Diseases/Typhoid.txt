@@ -1,0 +1,63 @@
+Typhoid fever, also known simply as typhoid, is a systemic infectious disease caused by the bacterium *Salmonella enterica* serotype Typhi. It primarily affects populations in developing countries with poor sanitation and limited access to clean water. Typhoid is a serious public health concern worldwide due to its potential for outbreaks and high morbidity.
+
+**Transmission:**  
+Typhoid is transmitted through the ingestion of contaminated food or water containing *Salmonella Typhi*. The bacteria multiply in the intestines and spread through the bloodstream to various organs, causing systemic illness.
+
+**Symptoms:**  
+Typhoid typically develops 6 to 30 days after exposure and presents with a wide range of symptoms, which may vary depending on individual factors such as age, immune status, and presence of comorbidities. Common symptoms include:  
+- Persistent high fever that gradually increases over days  
+- Weakness and fatigue  
+- Abdominal pain and discomfort  
+- Headache  
+- Loss of appetite and weight loss  
+- Diarrhea or constipation  
+- Rose-colored spots (rash) on the trunk  
+- Enlarged spleen and liver in some cases  
+
+Complications can occur if untreated, such as intestinal hemorrhage or perforation, which are life-threatening and require urgent medical attention.
+
+**Diagnosis:**  
+Diagnosis of typhoid fever is based on a combination of clinical evaluation and laboratory tests, including:  
+- Blood culture to isolate *Salmonella Typhi* (gold standard)  
+- Stool and urine cultures, especially later in the disease  
+- Widal test (serological test), though less specific and now less favored  
+- Complete blood count may show leukopenia or anemia  
+- Imaging studies in complicated cases to assess intestinal integrity  
+
+**Treatment:**  
+Early and appropriate antibiotic therapy is crucial for successful treatment. Common antibiotics used include:  
+- Fluoroquinolones (e.g., ciprofloxacin), although resistance is rising  
+- Third-generation cephalosporins (e.g., ceftriaxone)  
+- Azithromycin as an alternative in some cases  
+
+Supportive care involves:  
+- Hydration and electrolyte management  
+- Nutritional support  
+- Monitoring and managing complications such as intestinal perforation or hemorrhage  
+
+Surgery may be necessary in severe cases of intestinal perforation.
+
+**Prevention:**  
+Prevention strategies focus on improving sanitation, access to clean water, and food safety. Vaccination is an important preventive measure:  
+- Oral live attenuated vaccine (Ty21a)  
+- Injectable Vi capsular polysaccharide vaccine  
+
+Public health education about hand hygiene, safe food handling, and avoiding contaminated water sources is critical to reduce transmission.
+
+**Prognosis:**  
+With prompt diagnosis and treatment, the prognosis of typhoid fever is generally good. Untreated typhoid can be fatal due to severe complications. Early detection and consistent management significantly improve outcomes.
+
+**Keywords and related terms:**  
+- *Salmonella Typhi*  
+- Enteric fever  
+- Blood culture  
+- Antibiotic resistance  
+- Intestinal perforation  
+- Rose spots  
+- Vaccination  
+- Waterborne diseases  
+- Public health hygiene  
+- Febrile illness  
+
+Typhoid remains a significant health burden in many parts of the world, underscoring the need for continued surveillance, vaccination programs, and improvements in water and sanitation infrastructure.
+
