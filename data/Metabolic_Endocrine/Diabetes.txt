@@ -1,0 +1,62 @@
+Diabetes Mellitus, encompassing both Type I and Type II diabetes, is a chronic metabolic disorder that affects millions of individuals globally. It is characterized by elevated blood glucose levels (hyperglycemia) due to defects in insulin production, insulin action, or both, leading to widespread systemic complications if not properly managed.
+
+**Types and Pathophysiology:**  
+- **Type I Diabetes (T1D):**  
+  This form is primarily an autoimmune condition in which the body’s immune system attacks and destroys insulin-producing beta cells in the pancreas. It often manifests in childhood or adolescence but can occur at any age. Patients with Type I diabetes require lifelong insulin therapy for survival.  
+- **Type II Diabetes (T2D):**  
+  Type II diabetes is more common and usually develops in adulthood, although it is increasingly diagnosed in younger populations due to rising obesity rates. It is characterized by insulin resistance, where the body’s cells become less responsive to insulin, combined with progressive beta-cell dysfunction. Lifestyle factors such as diet, physical inactivity, and obesity strongly contribute to its development, alongside genetic predisposition.
+
+**Symptoms:**  
+Both types may share common symptoms such as:  
+- Increased thirst and urination (polyuria)  
+- Unexplained weight loss (more common in T1D)  
+- Fatigue and blurred vision  
+- Slow healing of wounds  
+- Frequent infections  
+
+**Diagnosis:**  
+Diagnosis of diabetes involves a combination of clinical evaluation and laboratory testing:  
+- **Fasting Plasma Glucose (FPG):** A fasting blood glucose level ≥126 mg/dL (7.0 mmol/L) on two occasions is diagnostic.  
+- **Oral Glucose Tolerance Test (OGTT):** A 2-hour plasma glucose ≥200 mg/dL (11.1 mmol/L) during an OGTT confirms diagnosis.  
+- **Glycated Hemoglobin (HbA1c):** An HbA1c level ≥6.5% is diagnostic and reflects average blood glucose control over the prior 2-3 months.  
+- Additional tests to differentiate Type I from Type II may include autoantibody panels and C-peptide levels.  
+
+**Treatment:**  
+Management strategies differ between Type I and Type II diabetes but share common goals of maintaining blood glucose within target ranges to prevent acute and chronic complications.  
+
+- **Pharmacological Treatment:**  
+  - Type I diabetes requires insulin replacement through injections or insulin pumps.  
+  - Type II diabetes treatment typically begins with lifestyle modification and oral hypoglycemic agents such as metformin, sulfonylureas, or newer classes like SGLT2 inhibitors and GLP-1 receptor agonists. Insulin therapy may become necessary as the disease progresses.  
+
+- **Non-Pharmacological Treatment:**  
+  - Dietary management focusing on balanced nutrition, carbohydrate counting, and weight control  
+  - Regular physical activity to improve insulin sensitivity  
+  - Education on self-monitoring of blood glucose and recognizing symptoms of hypo- and hyperglycemia  
+  - Psychological support to address emotional and behavioral challenges  
+
+**Complications:**  
+If poorly controlled, diabetes can lead to serious complications, including:  
+- **Microvascular:** Retinopathy (leading to blindness), nephropathy (kidney failure), and neuropathy (nerve damage)  
+- **Macrovascular:** Increased risk of cardiovascular diseases such as myocardial infarction and stroke  
+- Foot ulcers and infections, sometimes leading to amputation  
+
+**Prognosis:**  
+The prognosis for individuals with diabetes depends heavily on early diagnosis, glycemic control, and management of associated risk factors like hypertension and dyslipidemia. Advances in treatment and patient education have significantly improved life expectancy and quality of life, though diabetes remains a leading cause of morbidity worldwide.
+
+**Preventative Strategies and Patient Education:**  
+- Promoting healthy lifestyle choices including balanced diet, regular exercise, and weight management  
+- Screening high-risk populations to enable early detection  
+- Comprehensive education on disease management, medication adherence, and complication prevention  
+- Encouraging regular medical follow-ups and monitoring  
+
+**Keywords and Related Terms:**  
+- Hyperglycemia  
+- Insulin resistance  
+- Autoimmune diabetes  
+- HbA1c  
+- Oral hypoglycemic agents  
+- Diabetic complications  
+- Lifestyle modification  
+
+Diabetes Mellitus Type I & II represent significant public health challenges. Through multidisciplinary care involving endocrinologists, dietitians, diabetes educators, and primary care providers, affected individuals can achieve optimal disease control and lead healthy, fulfilling lives.
+

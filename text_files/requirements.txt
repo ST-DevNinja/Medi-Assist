@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+scikit-learn
+torch
+torchaudio
+torchvision
+pandas
+numpy
+nltk
+openai
+python-dotenv

@@ -1,0 +1,97 @@
+mediassist/
+│
+├── data/                   # Medical text corpus, symptom-disease datasets
+├── ir_module/              # Semantic search & RAG logic
+│   └── retriever.py
+│
+├── ml_module/              # Disease prediction ML model
+│   └── predictor.py
+│
+├── ai_module/              # Rule-based triage and A* search
+│   └── triage.py
+│   └── a_star.py
+│
+├── ui/                     # Streamlit or Gradio frontend
+│   └── app.py
+│
+├── requirements.txt        # All dependencies
+└── README.md               # Project overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------NEW ONE---------------------------
+
+
+
+MediAssist/
+│
+├── data/                         # 🧠 Medical documents for IR (TXT format)
+│   ├── flu.txt
+│   ├── cold.txt
+│   ├── asthma.txt
+│   ├── pneumonia.txt
+│   └── tuberculosis.txt
+│
+├── ir_module/                    # 🔍 Information Retrieval (FAISS + Embeddings)
+│   └── retriever.py
+│
+├── ai_module/                    # 🧭 AI algorithms (e.g., search, rules)
+│   └── triage.py
+│
+├── ml_module/                    # 🤖 ML models (disease prediction)
+│   ├── predictor.py
+│   └── disease_model.pkl
+│
+├── interface/                    # 🖼️ UI (Streamlit or Gradio)
+│   └── app.py
+│
+├── utils/                        # ⚙️ Shared helpers/utilities
+│   └── preprocess.py
+│
+├── README.md
+└── requirements.txt
+
+
+
+
+
+---------------THIRD PHASE---------------
+
+
+MediAssist/
+│
+├── ai_module/
+│   └── a_star.py                  # Possibly unrelated to IR, maybe for decision logic?
+│
+├── data/
+│   ├── Cardiovascular_Diseases/
+│   ├── Infectious_Diseases/
+│   ├── Mental_Health/
+│   ├── Metabolic_Endocrine/
+│   ├── Neurological_Disorders/
+│   ├── Respiratory_Diseases/
+│   └── fever.txt                  # Loose .txt file (consider moving to a category)
+│
+├── ir_module/
+│   └── retriever.py               # ✅ Your IR + RAG system
+│
+├── ml_module/
+│   └── predictor.py               # Probably contains predictive logic (symptom → disease?)
+│
+├── text_files/
+│   └── Structure.txt              # May be metadata or guidance notes?
+│
+└── ui/
+    └── app.py                     # ✅ This is where your Streamlit GUI will live

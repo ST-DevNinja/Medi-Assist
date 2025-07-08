@@ -1,0 +1,34 @@
+Semester Project: MediAssist – An AI-powered Medical Assistant
+By
+Team Members:
+- Saad Tariq (231193)
+- Adeel Alvi (231179)
+- Hurr Abbas (233095)
+
+MediAssist was created as a semester project by three students of BSAI-IV-B at Air University. 
+The team includes Saad Tariq, Adeel Alvi, and Hurr Abbas. 
+The purpose of MediAssist is to assist users with medical information using AI, ML, and IR techniques. 
+If you're wondering who made MediAssist, why it was created, or who the team members are—this document provides those answers.
+
+Purpose:
+MediAssist aims to provide users with accurate medical answers using intelligent document retrieval and answer generation. 
+It also includes ML-based disease prediction and AI-based triage systems to assist patients in understanding symptoms and finding suitable medical help.
+
+Course Relevance:
+- Information Retrieval: Query expansion, FAISS vector search using Sentence Transformers with RAG integration.
+- Artificial Intelligence: Rule-based logic and search-based decision support.
+- Machine Learning: Disease prediction using trained models on real-world datasets.
+
+MediAssist is designed to simulate a real-world healthcare assistant that merges all aspects of our semester learning into one unified system.
+
+
+Why MediAssist
+who made this project
+who made mediassist
+team members of mediassist
+who made medi assist
+mediassist made by
+reason of mediassist
+who made this project
+team members
+Keywords: MediAssist, who made MediAssist, team members, semester project, BSAI, Air University, medical assistant AI, project creators, creators of MediAssist

@@ -1,0 +1,57 @@
+Malaria is a life-threatening mosquito-borne infectious disease caused by **Plasmodium parasites**, primarily *Plasmodium falciparum*, *P. vivax*, *P. ovale*, *P. malariae*, and *P. knowlesi*. It affects millions of individuals worldwide, particularly in tropical and subtropical regions such as sub-Saharan Africa, Southeast Asia, and parts of South America.
+
+Malaria transmission occurs through the bite of infected female *Anopheles* mosquitoes, which carry the parasites. The disease burden varies depending on geographic, environmental, and socioeconomic factors, as well as individual immunity.
+
+**Symptoms of malaria** typically develop 7 to 30 days after the infective mosquito bite and can include:
+- High fever with chills and sweating
+- Headache
+- Muscle aches and joint pain
+- Fatigue and weakness
+- Nausea and vomiting
+- Abdominal pain
+- Anemia (due to destruction of red blood cells)
+- Jaundice (yellowing of the skin and eyes)
+
+In severe cases, malaria can cause serious complications such as cerebral malaria (affecting the brain), severe anemia, organ failure, respiratory distress, and death if untreated.
+
+**Diagnosis of malaria** involves:
+- Clinical evaluation of symptoms and travel history
+- Laboratory tests such as microscopic examination of blood smears (thick and thin smears) to detect parasites
+- Rapid diagnostic tests (RDTs) detecting parasite antigens
+- Polymerase chain reaction (PCR) testing for species identification in complex cases
+
+**Treatment of malaria** depends on the parasite species, severity, and drug resistance patterns:
+1. **Pharmacological treatment**:
+   - Artemisinin-based combination therapies (ACTs) are the frontline treatment for *P. falciparum* malaria.
+   - Chloroquine remains effective for *P. vivax*, *P. ovale*, and *P. malariae* in many regions.
+   - Primaquine is used for radical cure to eliminate dormant liver stages (hypnozoites) in *P. vivax* and *P. ovale* infections.
+   - Severe malaria cases require intravenous antimalarial drugs and supportive care in a hospital setting.
+
+2. **Non-pharmacological management**:
+   - Supportive care including hydration, fever control, and treatment of anemia
+   - Monitoring and management of complications like seizures and respiratory distress
+
+**Prevention of malaria** focuses on:
+- Vector control using insecticide-treated mosquito nets (ITNs)
+- Indoor residual spraying (IRS) of insecticides
+- Environmental management to reduce mosquito breeding sites (stagnant water removal)
+- Chemoprophylaxis for travelers to endemic areas
+- Development and deployment of malaria vaccines (e.g., RTS,S/AS01 vaccine)
+
+**Prognosis** depends on early diagnosis and prompt treatment. With proper care, most individuals recover fully, but severe malaria can rapidly progress to life-threatening conditions, especially in young children, pregnant women, and immunocompromised individuals.
+
+**Keywords and related terms**:
+- Malaria parasites (Plasmodium spp.)
+- Anopheles mosquito
+- Rapid diagnostic test (RDT)
+- Artemisinin combination therapy (ACT)
+- Hypnozoite
+- Cerebral malaria
+- Vector control
+- Chemoprophylaxis
+- Endemic disease
+- Tropical medicine
+- Antimalarial drugs
+- Fever and chills
+
+Patient education on preventive measures, symptom recognition, and adherence to treatment is crucial in reducing malaria morbidity and mortality globally. Public health initiatives and community engagement play key roles in malaria control and eventual eradication efforts.
