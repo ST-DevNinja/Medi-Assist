@@ -11,3 +11,6 @@ numpy
 nltk
 openai
 python-dotenv
+folium
+streamlit-folium
+
